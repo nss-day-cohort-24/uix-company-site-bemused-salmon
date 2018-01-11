@@ -1,0 +1,91 @@
+BroBucks:
+	- BroBucks brings together everything from balances and bills to your credit score and more. It’s your financial life, in one place that’s easy to understand.
+	- Know where you stand, and how you can improve. The more accounts, cards and bills you link, the more BroBucks can help you do. See what you have and what you owe. Understand where money goes and where you can cut back. Create budgets, track investments, discover new ways to save and more.
+	- Simple and free to set up. It’s free and easy to get started, and BroBucks connects to almost every US financial institution connected to the internet. In just minutes, you’ll see where your money is going and get ideas on how to stretch it farther.
+	- Stay up-to-date as it happens. BroBucks automatically updates and categorizes your information. From your bank accounts and credit cards to retirement accounts and more—we’ll crunch the numbers as they happen so you know where you stand.
+	- Custom tips and savings. Because BroBucks helps you watch/manage your money; BroBucks will also help you find savings along the way. We analyze thousands of checking, savings, credit card, brokerage, CD and IRA rollover offers—then make recommendations that could help save you the most based on your lifestyle and goals.
+BroJoe:
+	- What is BroJoe. It’s your new Bro for finding and sharing amazing coffee through your smart phone.
+	- Discover: Find cafes around you and anywhere in the world.
+	- Share your experiences - Leave reviews, upload photos and share your coffee experiences with other coffee Bros.
+	- Join the Community - Be a part of a community of coffee lovers from all around the world
+BroFit :
+	- No-frills exercise tracker - BroFit is the only fitness app that captures both the flexibility and ease of use that a pen and notepad offer. Made to be used at the gym, you won't find unnecessary features getting in the way. Easily track your exercises as soon as you finish a set so you won't forget.
+	- Simple---Focus on lifting not logging---Quickly and easily record your sets while working out. No ugly menus or unnecessary features to get in your way, simply set your weight & reps then save.
+	- Design---Clean and concise---Clearly see important numbers such as weight & reps.
+	- Customizable---Focus on what you do---Create any amount of custom workouts and routines to help you stay on track to reach your individual fitness goals.
+BroGigs:
+	- BroGig's Job Search gives you all the tools you need to easily find your dream job – or let it find you.
+	- Quickly find job opportunities wherever you want with location-based search. Get automatic recommendations and notifications based on your job searches. Apply to jobs with your BroGig profile with just a couple of taps. 
+	- BroGig 's Job Search puts the job-finding power of BroGig in the palm of your hand with:
+		- Quick and easy jobs search based on title, location, or keywords
+		- Recommended jobs based on saved searches, jobs you’ve viewed, and your BroGig profile.
+		- Notifications when new jobs match what you're looking for
+		- A super-simple job application process using your BroGig profile
+		- Total privacy – your network won’t hear a thing about your in-app activity
+BroMove:
+	- BroMove — YOUR FRIENDLY TRANSIT COMPANION----Like a helpful personal robot, BroMovethinks about your journey so you don’t have to.
+	- SHARE YOUR WAY ACROSS TOWN---Uber. Bikeshare. Carshare. Quickly compare all of your options on one screen.
+	- Simplifying the commute in more than 125 cities worldwide.
+	- BroMove is your real-time urban travel companion. Navigate your city’s public transit system with accurate real-time predictions, simple trip planning, step-by-step navigation, service disruption notifications, and departure and stop reminders... all presented in a clear, bold interface. Public transport not cooperating? Easily request an Uber, reserve a car2go, or grab the closest bike share. 
+	
+	- 10 GREAT THINGS YOU CAN DO WITH BROMOVE:
+	- 1) See real-time arrivals for nearby buses and trains instantly upon launch.
+	- 2) Watch your transit vehicle approaching on a map in real-time
+	- 3) Compare options with powerful A to B trip plans using real-time data.
+	- 4) Launch BroMove for step-by-step navigation when you’re on an unfamiliar route or want to nap/read/space out.
+	- 5) Receive departure alarms and stop notifications as well as prompts to pick up the pace in BroMove.
+	- 6) Get push notifications if service disruptions will affect your commute.
+	- 7) View transit schedules and route itineraries—even when you’re offline! 
+	- 8) Locate bike share stations, see the number of bikes available, pay for passes, and unlock bikes (in select cities). 
+	- 9) Check ETA (and surge) for nearby Ubers, and book in two taps.
+	- 10) View availability and book cars with car2go and other local car-share services. 
+	
+
+BroTix:
+- The BroTix app is the best way to discover, buy, transfer and sell tickets to thousands of live music, sporting, arts, theater, and family events. 
+
+- Our exclusive partnerships with thousands of venues, artists, sports leagues, and arts and theater tours, allows BroTix to deliver YOU unparalleled access to the most iconic live events worldwide. And as the only Official Ticketing Partner of the NFL, NBA, NHL and USTA our Verified Tickets are always 100% guaranteed.
+
+- ALL YOUR OPTIONS IN ONE PLACE
+- The biggest selection of live events in the world including concerts, sports, arts & entertainment and so much more at your fingertips. Take us with you and find events you love on the go.
+
+- SAFE & SECURE
+- Verified Tickets are 100% guaranteed. 
+- Buy tickets from the venue, or buy resale tickets from fans & other sellers on our interactive seat map or list view.
+- The only official ticketing partner of the NFL, NBA, NHL, USTA and more.
+- The safest & most secure way to buy tickets.
+
+- THE EASIEST WAY TO TRANSFER AND SELL TICKETS
+- Buying tickets for friends or family? Transfer them for free.
+- Can’t go to the show? List your tickets for sale on our trusted resale marketplace.
+- Get real-time status updates on transfers and ticket listings for sale.
+
+- YOUR PHONE IS YOUR TICKET 
+- All you need is the app to get into your event (mobile-entry events only).
+- Add your tickets to Apple Wallet before you head to your event.
+- Everything you need to know for your event in one convenient place.
+
+- NEVER MISS OUT ON AN EVENT 
+- Get notifications about your favorite events, artists, and venues.
+- Scan your Apple Music and get the latest event news on your favorites.
+- Share your favorite events with your extended network on Twitter and Facebook.
+	
+BroBrew:
+	- CHECK IN AND RATE BEER---- Keep track of what you’ve tried and what you thought of it by checking in a beer and rating it.
+	- Explore nearby popular bars, breweries, and beers---Not sure where to grab a pint, Bro? BroBrew shows you popular bars and venues nearby and what’s on tap.
+	- Other Great Features---UPDATED MENUS---Follow Verified Venues to get live tap list updates.
+	- RECOMMENDATIONS---Discover new beers locally we think you’ll like.
+	- LOCAL EVENTS---Stay up-to-date with venue and brewery events alerts.
+BetterBro:
+	- With 20 billion matches to date, BetterBro is the world’s most popular app for meeting new people. Think of us as your most dependable wingman—wherever you go, we’ll be there. If you’re here to meet new people, expand your social network, meet locals when you’re traveling, or just live in the now, you’ve come to the right place. We’re called “the world’s best dating and advice app for bros looking for their Belle ” for a reason: we spark more than 26 million matches per day. How many dating apps do that?
+	- Swipe. Match. Chat. Date. BetterBroing is easy and fun—Swipe Up to Like someone, Swipe Down to pass. If someone likes you back, It’s a Match! We adopted the double opt-in so that two people will only match when there’s a mutual interest. No stress. No rejection. Just swipe, match, and chat online with your matches, then step away from your phone, meet up in the real world and spark something new.
+	- Now, start swiping. And remember, when in doubt, Swipe Up. Trust us, the more options you have, the better-looking life becomes. 
+	- Welcome to BetterBro—the largest, hottest community of singles in the world. Don’t be shy, swipe on over.
+	- Is your "Bro Jargon" getting in the way of winning a Belle over? Bro, we've got you.  
+	- We curate the best articles, interviews and buzzwords from male and female dating experts to help you in your quest to win her heart.
+	
+	
+	
+
+
