@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    padding-top: 3em;
+    font-size: 30px;
+    letter-spacing: 25px;
+}
+
+.header-img {
+    display: block;
+    margin: auto;
+    background-image: url(/images/reclaimed-wood-panels-wallpaper.jpg);
+    height: 300px;
+    width: 60%;
+    opacity: .7;
+}
+
+a:link,
+ul {
+   list-style-type: none;
+   text-align: center;
+   padding-right: 3em;
+}
+
+a:hover {
+    text-decoration-style: 1px dashed grey;
+}
+
+h3 {
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+h2 {
+    letter-spacing: 3px;
+    padding-top: 1.7em;
+    margin-left: 2em;
+}
+
+.space {
+    padding-top: 1.5em;
+    border-spacing: 10px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 2em;
+    padding-right: 30em;
+}
+
+p,
+h2 {
+    min-width: 275px;
+}
+
+.flex-items {
+    display: flex;
+    width: 50%;
+}
+
+footer {
+    text-align: center;
+    color: grey;
+    font-size: xx-small;
+}
+
+footer ul {
+    padding-right: 5em;
+}
+
+.copy {
+    font-size: xx-small;
+}
