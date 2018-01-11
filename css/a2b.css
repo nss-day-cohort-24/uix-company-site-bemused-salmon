@@ -27,7 +27,14 @@ ul {
 }
 
 a:hover {
-    text-decoration-style: 1px dashed grey;
+    color: 8B008B;
+	text-decoration: none;
+	font-family: 'Lucida Console';
+	font-size: 12px;
+	line-height: 1.5;
+	outline: 1px dashed black;
+	background-color: white;
+	padding: 1em;
 }
 
 h3 {
@@ -72,6 +79,7 @@ footer {
 }
 
 footer ul {
+    padding-top: 2em;
     padding-right: 5em;
 }
 
