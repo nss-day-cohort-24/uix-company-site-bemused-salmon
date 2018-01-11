@@ -1,4 +1,5 @@
 // Create two row, four per row product layout
+console.log('product page');
 var product;
 var prod_card = '';
 
