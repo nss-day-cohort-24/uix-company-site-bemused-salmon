@@ -14,10 +14,21 @@ a:link{
     color:lightgrey;
 }
 
-li a:hover {
-    background-color: #111;
+a:hover {
+    color: darkslategrey;
+	text-decoration: none;
 }
 
+a:visited {
+    color: rgb(114, 164, 180);
+}
+
+p {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 40%;
+}
 
 h3{
     text-align: left;
@@ -30,7 +41,6 @@ h3{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-img {width: 100%}
 
 .container {
     text-align: center;

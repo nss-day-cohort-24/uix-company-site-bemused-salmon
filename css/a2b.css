@@ -47,10 +47,6 @@ h2 {
     margin-left: 2em;
 }
 
-p,
-h2 {
-    min-width: 275px;
-}
 
 .space {
     padding-top: 1.5em;
@@ -67,9 +63,15 @@ h2 {
 
 .flex-items {
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
+    flex-flow: wrap row;
     justify-content: center;
+    width: 40%;
+}
+
+.sub-flex {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: right;
     width: 40%;
 }
 
