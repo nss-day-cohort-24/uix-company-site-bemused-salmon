@@ -54,12 +54,12 @@ h2 {
 
 .flex-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     flex-direction: row;
-    flex-wrap: wrap;
     margin-top: 2em;
-    padding-right: 30em;
 }
+
 
 p,
 h2 {
@@ -68,7 +68,9 @@ h2 {
 
 .flex-items {
     display: flex;
-    width: 50%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
 }
 
 footer {
