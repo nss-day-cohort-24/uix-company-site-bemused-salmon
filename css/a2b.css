@@ -13,13 +13,12 @@ h1 {
 .header-img {
     display: block;
     margin: auto;
-    background-image: url(/images/reclaimed-wood-panels-wallpaper.jpg);
+    background-image: url();
     height: 300px;
     width: 60%;
-    opacity: .7;
 }
 
-a:link,
+a,
 ul {
    list-style-type: none;
    text-align: center;
@@ -29,11 +28,11 @@ ul {
 a:hover {
     color: 8B008B;
 	text-decoration: none;
-	font-family: 'Lucida Console';
+    font-family: 'Lucida Console';
 	font-size: 12px;
 	line-height: 1.5;
 	outline: 1px dashed black;
-	background-color: white;
+	background-color: transparent 80%;
 	padding: 1em;
 }
 
@@ -81,6 +80,7 @@ footer {
 footer ul {
     padding-top: 2em;
     padding-right: 5em;
+    text-decoration: none;
 }
 
 .copy {
