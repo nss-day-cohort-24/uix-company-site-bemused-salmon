@@ -10,7 +10,7 @@ function print(prod_card) {
 
 for (var i = 0; i < products.length; i += 1) {
 	product = products[i];
-	prod_card +=  '<h3>Name:' + product.name + '</h3>';
+	prod_card +=  '<div><h3>' + product.name + '</h3>' + '<h4>' + product.description + '</h4>' + '<h4>' + product.price + '</h4></div>';
 }
 
 print(prod_card);
