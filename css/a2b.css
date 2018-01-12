@@ -27,6 +27,12 @@ ul {
    padding-right: 3em;
 }
 
+.table-links {
+   list-style-type: none;
+   text-align: center;
+   padding-right: 0;
+}
+
 a:hover {
     color: darkslategrey;
 	text-decoration: none;
