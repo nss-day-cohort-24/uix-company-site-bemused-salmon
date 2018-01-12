@@ -1,5 +1,6 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
 }
 
 h1 {
@@ -8,6 +9,7 @@ h1 {
     padding-top: 3em;
     font-size: 30px;
     letter-spacing: 25px;
+    padding-bottom: 2em;
 }
 
 .header-img {
@@ -26,14 +28,12 @@ ul {
 }
 
 a:hover {
-    color: 8B008B;
+    color: darkslategrey;
 	text-decoration: none;
-    font-family: 'Lucida Console';
-	font-size: 12px;
-	line-height: 1.5;
-	outline: 1px dashed black;
-	background-color: transparent 80%;
-	padding: 1em;
+}
+
+a:visited {
+    color: rgb(114, 164, 180);
 }
 
 h3 {
@@ -54,12 +54,12 @@ h2 {
 
 .flex-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     flex-direction: row;
-    flex-wrap: wrap;
     margin-top: 2em;
-    padding-right: 30em;
 }
+
 
 p,
 h2 {
@@ -68,7 +68,9 @@ h2 {
 
 .flex-items {
     display: flex;
-    width: 50%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
 }
 
 footer {
