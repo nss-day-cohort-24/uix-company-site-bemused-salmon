@@ -34,13 +34,10 @@ ul {
 }
 
 a:hover {
-    color: darkslategrey;
+    color: rgb(74, 173, 240);
 	text-decoration: none;
 }
 
-a:visited {
-    color: rgb(114, 164, 180);
-}
 
 h3 {
     font-size: 14px;
