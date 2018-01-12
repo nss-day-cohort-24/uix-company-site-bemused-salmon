@@ -47,6 +47,11 @@ h2 {
     margin-left: 2em;
 }
 
+p,
+h2 {
+    min-width: 275px;
+}
+
 .space {
     padding-top: 1.5em;
     border-spacing: 10px;
@@ -60,17 +65,16 @@ h2 {
     margin-top: 2em;
 }
 
-
-p,
-h2 {
-    min-width: 275px;
-}
-
 .flex-items {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
+    width: 40%;
+}
+
+.float-left {
+    float: left;
 }
 
 footer {
