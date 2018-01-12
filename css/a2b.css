@@ -32,6 +32,10 @@ a:hover {
 	text-decoration: none;
 }
 
+a:visited {
+    color: rgb(114, 164, 180);
+}
+
 h3 {
     font-size: 14px;
     letter-spacing: 2px;
