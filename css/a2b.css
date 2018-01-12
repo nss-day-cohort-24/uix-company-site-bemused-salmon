@@ -65,7 +65,7 @@ h2 {
     display: flex;
     flex-flow: wrap row;
     justify-content: center;
-    width: 40%;
+    width:40%;    
 }
 
 .sub-flex {
@@ -73,6 +73,12 @@ h2 {
     flex-flow: wrap row;
     justify-content: right;
     width: 40%;
+}
+
+.index-nav {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
 }
 
 .float-left {
