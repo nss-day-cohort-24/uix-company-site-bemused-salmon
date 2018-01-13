@@ -1,6 +1,14 @@
 /* CSS Document */
-/*.card {
+#gallery {
 	display: flex;
-	float: left;
+	flex-flow: row wrap;
+	justify-content: space-around;
 }
-*/
+.card {
+	min-width: 250px;
+	flex: 1;
+}
+
+.card li {
+	text-align: left;
+}
