@@ -11,4 +11,9 @@
 
 .card li {
 	text-align: left;
+	font-size: 1em;
+}
+
+.card img {
+	max-width: 300px;
 }
