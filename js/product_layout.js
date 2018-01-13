@@ -1,9 +1,4 @@
-// Create two row, four per row product layout
-
-
-//Combine var inside of prod_card
-//Add class to prod_card
-//Add prod_card to DOM
+//Create product cards to add to DOM
 
 var prod_name;
 var prod_desc;
