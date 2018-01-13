@@ -50,7 +50,7 @@ for (var i = 0; i < products.length; i++) {
 	prod_card.appendChild(prod_list);
 	
 	//Add to DOM
-	var dest_div = document.getElementById("output");
+	var dest_div = document.getElementById("gallery");
 	dest_div.appendChild(prod_card);
 		
 	}
