@@ -3,6 +3,10 @@ body {
     color: #000033;
 }
 
+nav {
+    background-color: #000033;
+}
+
 h1 {
     display: block;
     text-align: center;
@@ -22,6 +26,7 @@ h1 {
     width: 40%;
     height: 300px;
 }
+
 
 a,
 ul {
@@ -94,8 +99,11 @@ h3 {
 
 .index-nav {
     display: flex;
-    flex-flow: wrap row;
+    flex-wrap: wrap;
     justify-content: center;
+    position: relative;
+    margin: auto;
+    width: 50%;
 }
 
 .float-left {
