@@ -3,6 +3,10 @@ body {
     color: #000033;
 }
 
+nav {
+    background-color: #000033;
+}
+
 h1 {
     display: block;
     text-align: center;
