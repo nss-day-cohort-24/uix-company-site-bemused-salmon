@@ -11,6 +11,7 @@ var prod_card;
 for (var i = 0; i < products.length; i++) {
 	product = products[i];
 	pic = product.img_src;
+	alt = product.img_alt;
 	name = product.name;
 	desc = product.description;
 	price = product.price;
@@ -21,11 +22,12 @@ for (var i = 0; i < products.length; i++) {
 	prod_card.setAttribute("class", "card");
 	var prod_img = document.createElement("img");
 	prod_img.src = pic;
+	prod_img.alt = alt;
 	prod_card.appendChild(prod_img);
 
 	//Add name info to li, add to ul
 	prod_name = document.createTextNode(name);
-	//console.log(prod_name);
+
 	var li_name = document.createElement("li");
 	li_name.appendChild(prod_name);
 	var prod_list = document.createElement("ul");
