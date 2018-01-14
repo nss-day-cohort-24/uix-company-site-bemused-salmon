@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: darkslategray;
+    color: #000033;
 }
 
 h1 {
@@ -11,13 +11,15 @@ h1 {
     letter-spacing: 25px;
     padding-bottom: 2em;
 }
+.headline {
+
+    text-align: center;
+}
 
 .header-img {
     display: block;
     margin: auto;
-    background-image: url();
-    height: 300px;
-    width: 60%;
+    height: 200px;
 }
 
 a,
@@ -33,16 +35,21 @@ ul {
    padding-right: 0;
 }
 
+
+a:link{
+    text-decoration: none;
+    color:lightgrey;
+}
+
 a:hover {
-    color: rgb(74, 173, 240);
+    color: #9999b2;
 	text-decoration: none;
 }
 
-
-h3 {
-    font-size: 14px;
-    letter-spacing: 2px;
+a:visited {
+    color: rgb(114, 164, 180);
 }
+
 
 h2 {
     letter-spacing: 3px;
@@ -50,10 +57,15 @@ h2 {
     margin-left: 2em;
 }
 
+h3 {
+    font-size: 14px;
+    letter-spacing: 2px;
+}
 
 .space {
     padding-top: 1.5em;
     border-spacing: 10px;
+    text-align: center;
 }
 
 .flex-container {

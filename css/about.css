@@ -4,9 +4,15 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #000033;
     color: white;
     list-style-type: none;
+}
+
+.logo-img {
+    height: 75px;
+    width:120px;
+    float: left;
 }
 
 a:link{
@@ -15,7 +21,7 @@ a:link{
 }
 
 a:hover {
-    color: darkslategrey;
+    color: #9999b2;
 	text-decoration: none;
 }
 
@@ -30,11 +36,10 @@ p {
     width: 40%;
 }
 
-h3{
+h3 {
     text-align: left;
 }
 .polaroid {
-    
     width: 100px;
     height: 80px;
     background-color: white;
