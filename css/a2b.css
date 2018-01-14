@@ -23,8 +23,6 @@ h1 {
 .header-img {
         display: block;
         margin: auto;
-        width: 40%;
-        height: 300px;
     }
 
 a,
@@ -97,8 +95,11 @@ h3 {
 
 .index-nav {
     display: flex;
-    flex-flow: wrap row;
+    flex-wrap: wrap;
     justify-content: center;
+    position: relative;
+    margin: auto;
+    width: 50%;
 }
 
 .float-left {
