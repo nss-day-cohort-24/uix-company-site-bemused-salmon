@@ -11,46 +11,44 @@ h1 {
     letter-spacing: 25px;
     padding-bottom: 2em;
 }
-.headline {
 
+.headline {
     text-align: center;
 }
 
 .header-img {
-        display: block;
-        margin: auto;
-        width: 40%;
-        height: 300px;
-    }
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: 300px;
+}
 
 a,
 ul {
-   list-style-type: none;
-   text-align: center;
-   padding-right: 3em;
+    list-style-type: none;
+    text-align: center;
+    padding-right: 3em;
 }
 
 .table-links {
-   list-style-type: none;
-   text-align: center;
-   padding-right: 0;
+    list-style-type: none;
+    text-align: center;
+    padding-right: 0;
 }
 
-
-a:link{
+a:link {
     text-decoration: none;
-    color:lightgrey;
+    color: lightgrey;
 }
 
 a:hover {
     color: #9999b2;
-	text-decoration: none;
+    text-decoration: none;
 }
 
 a:visited {
     color: rgb(114, 164, 180);
 }
-
 
 h2 {
     letter-spacing: 3px;
@@ -69,6 +67,9 @@ h3 {
     text-align: center;
 }
 
+
+/* -----Flex Items----- */
+
 .flex-container {
     display: flex;
     flex-wrap: wrap;
@@ -81,7 +82,7 @@ h3 {
     display: flex;
     flex-flow: wrap row;
     justify-content: center;
-    width:40%;    
+    width: 40%;
 }
 
 .sub-flex {
@@ -115,4 +116,39 @@ footer ul {
 
 .copy {
     font-size: xx-small;
+}
+
+
+/*------------------------------Jobs Page---------------------------- */
+
+
+/* ------------Janitor Content Block-------*/
+
+.janitor {
+    background-color: aqua;
+}
+
+.janitorul {
+    text-align: left;
+    font-size: .5em;
+    border-left-width: 3px;
+}
+
+
+/* ------------Elevator Attendant Block-------*/
+
+.elevatorul {
+    border: 5px;
+    border-color: black;
+    font-size: .5em;
+    text-align: left;
+}
+
+
+/* ------------Valet Content Block-------*/
+
+.valetp {
+    text-size: 16px;
+    color: red;
+    text-align: center;
 }
