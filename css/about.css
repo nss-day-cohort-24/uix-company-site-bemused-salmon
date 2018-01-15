@@ -3,6 +3,17 @@ body {
     color: #000033;
 }
 
+p {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 40%;
+}
+
+h3 {
+    text-align: left;
+}
+
 h1 {
     display: block;
     text-align: center;
@@ -11,17 +22,6 @@ h1 {
     letter-spacing: 25px;
     padding-bottom: 2em;
 }
-.headline {
-
-    text-align: center;
-}
-
-.header-img {
-        display: block;
-        margin: auto;
-        width: 40%;
-        height: 300px;
-    }
 
 nav ul {
     text-align: right;
@@ -34,11 +34,6 @@ nav ul {
     list-style-type: none;
 }
 
-.logo-img {
-    height: 75px;
-    width:120px;
-    float: left;
-}
 
 a:link{
     text-decoration: none;
@@ -61,13 +56,6 @@ ul {
    padding-right: 3em;
 }
 
-.table-links {
-   list-style-type: none;
-   text-align: center;
-   padding-right: 0;
-}
-
-
 h2 {
     letter-spacing: 3px;
     padding-top: 1.7em;
@@ -77,6 +65,30 @@ h2 {
 h3 {
     font-size: 14px;
     letter-spacing: 2px;
+}
+ /* ============ CLASSES =========== */
+ .headline {
+
+    text-align: center;
+}
+
+.header-img {
+        display: block;
+        margin: auto;
+        width: 40%;
+        height: 300px;
+    }
+
+ .table-links {
+    list-style-type: none;
+    text-align: center;
+    padding-right: 0;
+ }
+ 
+.logo-img {
+    height: 75px;
+    width:120px;
+    float: left;
 }
 
 .space {
@@ -123,16 +135,6 @@ h3 {
     float: left;
 }
 
-p {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    width: 40%;
-}
-
-h3 {
-    text-align: left;
-}
 .polaroid {
     width: 100px;
     height: 80px;
