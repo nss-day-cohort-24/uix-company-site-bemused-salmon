@@ -23,10 +23,8 @@ h1 {
 .header-img {
     display: block;
     margin: auto;
-    width: 40%;
     height: 300px;
 }
-
 
 a,
 ul {
@@ -83,6 +81,12 @@ h3 {
     margin-top: 2em;
 }
 
+.flex-container1 {
+    display: block;
+    min-width: 500px;
+    margin: auto;
+}
+
 .flex-items {
     display: flex;
     flex-flow: wrap row;
@@ -124,39 +128,4 @@ footer ul {
 
 .copy {
     font-size: xx-small;
-}
-
-
-/*------------------------------Jobs Page---------------------------- */
-
-
-/* ------------Janitor Content Block-------*/
-
-.janitor {
-    background-color: aqua;
-}
-
-.janitorul {
-    text-align: left;
-    font-size: .5em;
-    border-left-width: 3px;
-}
-
-
-/* ------------Elevator Attendant Block-------*/
-
-.elevatorul {
-    border: 5px;
-    border-color: black;
-    font-size: .5em;
-    text-align: left;
-}
-
-
-/* ------------Valet Content Block-------*/
-
-.valetp {
-    text-size: 16px;
-    color: red;
-    text-align: center;
 }

@@ -40,21 +40,30 @@
 
 	</header>
 
-    <main class="flex-container">
-            <div class="flex-items">
-        <h2 class="title">Contact Us</h2>
+    <main class="flex-container1">
+            <div class="form">
+        <h2>Contact Us</h2>
         <section>
             <p>
-
+                <form>
+                    First name:<br>
+                   <input type="text" name="fname"> <br>
+                   Last Name:<br>
+                   <input type="text" name="lname"><br>
+                   Email:<br>
+                   <input type="email" name="user_email"><br>
+                   <textarea name="message" rows="5" cols="50">Leave us a message here, and we'll contact you as soon as we can!
+                   </textarea>
+                </form>
             </p>
-            <article>
+            
                 <p>
-                    <div id="map"></div>
+                    <div id="map" class="mapapi"></div>
                     <script>
                             function initMap() {
-                              var uluru = {lat: -25.363, lng: 131.044};
+                              var uluru = {lat: 36.1627, lng: -86.7816};
                               var map = new google.maps.Map(document.getElementById('map'), {
-                                zoom: 4,
+                                zoom: 10,
                                 center: uluru
                               });
                               var marker = new google.maps.Marker({
@@ -69,7 +78,7 @@
       
                       
                 </p>
-            </article>
+          
         </section>
         
         <aside>
