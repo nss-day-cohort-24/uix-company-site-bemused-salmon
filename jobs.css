@@ -1,0 +1,186 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000033;
+}
+
+nav {
+    background-color: #000033;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    padding-top: 3em;
+    font-size: 30px;
+    letter-spacing: 25px;
+    padding-bottom: 2em;
+}
+
+.headline {
+    text-align: center;
+}
+
+.header-img {
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: 300px;
+}
+
+a,
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding-right: 3em;
+}
+
+.table-links {
+    list-style-type: none;
+    text-align: center;
+    padding-right: 0;
+}
+
+a:link {
+    text-decoration: none;
+    color: lightgrey;
+}
+
+a:hover {
+    color: #9999b2;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(114, 164, 180);
+}
+
+h2 {
+    letter-spacing: 3px;
+    padding-top: 1.7em;
+    margin-left: 2em;
+}
+
+h3 {
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+.space {
+    padding-top: 1.5em;
+    border-spacing: 10px;
+    text-align: center;
+}
+
+
+/* -----Flex Items----- */
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 2em;
+}
+
+.flex-items {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+    width: 40%;
+}
+
+.sub-flex {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: right;
+    width: 40%;
+}
+
+.index-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    margin: auto;
+    width: 50%;
+}
+
+.float-left {
+    float: left;
+}
+
+footer {
+    text-align: center;
+    color: grey;
+    font-size: xx-small;
+}
+
+footer ul {
+    padding-top: 2em;
+    padding-right: 5em;
+    text-decoration: none;
+}
+
+.copy {
+    font-size: xx-small;
+}
+
+
+/*------------------------------Jobs Page---------------------------- */
+
+
+/* -----
+  The order I style in:
+  dimension related
+  text related
+  font related
+  border
+  pading 
+  margin
+  color
+-----*/
+
+
+/* ------------Janitor Content Block-------*/
+
+
+/* Main Title of block */
+
+.jobtitle {
+    text-align: center;
+    font-size: 26px;
+    width: 600px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 20px;
+    padding-top: 12px;
+    background-color: darkgray;
+    border: 5px solid black;
+}
+
+
+/* Paragraph content */
+
+.jobdesc {
+    text-align: left;
+    width: 500px;
+    font-size: 12px;
+    margin-left: 50px;
+    margin-right: 300px;
+    padding-left: 22px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+
+
+/* ------------Elevator Attendant Block-------*/
+
+#valetp {
+    text-align: center;
+    font-size: 18px;
+    width: 300px;
+    margin-left: 150px;
+    padding-bottom: 20px;
+    background-color: darkgray;
+    color: red;
+}
