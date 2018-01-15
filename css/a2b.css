@@ -85,6 +85,7 @@ h3 {
 .flex-container1 {
     display: block;
     min-width: 500px;
+    margin: auto;
 }
 
 .flex-items {
