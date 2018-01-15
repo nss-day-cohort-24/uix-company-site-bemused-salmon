@@ -145,3 +145,8 @@ h3 {
     text-align: center;
     padding: 10px 20px;
 }
+
+.mapapi {
+    min-width: 50%;
+    text-align: center;
+}
