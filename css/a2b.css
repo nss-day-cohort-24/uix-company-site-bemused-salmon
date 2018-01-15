@@ -27,7 +27,6 @@ h1 {
     height: 300px;
 }
 
-
 a,
 ul {
     list-style-type: none;
@@ -124,39 +123,4 @@ footer ul {
 
 .copy {
     font-size: xx-small;
-}
-
-
-/*------------------------------Jobs Page---------------------------- */
-
-
-/* ------------Janitor Content Block-------*/
-
-.janitor {
-    background-color: aqua;
-}
-
-.janitorul {
-    text-align: left;
-    font-size: .5em;
-    border-left-width: 3px;
-}
-
-
-/* ------------Elevator Attendant Block-------*/
-
-.elevatorul {
-    border: 5px;
-    border-color: black;
-    font-size: .5em;
-    text-align: left;
-}
-
-
-/* ------------Valet Content Block-------*/
-
-.valetp {
-    text-size: 16px;
-    color: red;
-    text-align: center;
 }
